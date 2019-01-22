@@ -1,0 +1,3 @@
+C:\Users\Andrea\Desktop\ENSC\Unreal Engine\unreal-engine-programming-quick-start\QuickStart\Source\QuickStart\QuickStart.Build.cs
+C:\Users\Andrea\Desktop\ENSC\Unreal Engine\unreal-engine-programming-quick-start\QuickStart\Source\QuickStart.Target.cs
+C:\Users\Andrea\Desktop\ENSC\Unreal Engine\unreal-engine-programming-quick-start\QuickStart\Source\QuickStartEditor.Target.cs
