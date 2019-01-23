@@ -1,0 +1,10 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Andrea\Desktop\ENSC\Unreal Engine\unreal-engine-programming-quick-start).
+  Creating makefile for hot reloading QuickStartEditor (no existing makefile)
+  Compiling game modules for hot reload
+  Using Visual Studio 2015 14.0 toolchain (C:\Program Files (x86)\Microsoft Visual Studio 15.0\VC) and Windows 8.1 SDK (C:\Program Files (x86)\Windows Kits\8.1).
+  Parsing headers for QuickStartEditor
+    Running UnrealHeaderTool "C:\Users\Andrea\Desktop\ENSC\Unreal Engine\unreal-engine-programming-quick-start\QuickStart\QuickStart.uproject" "C:\Users\Andrea\Desktop\ENSC\Unreal Engine\unreal-engine-programming-quick-start\QuickStart\Intermediate\Build\Win64\QuickStartEditor\Development\QuickStartEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for QuickStartEditor in 98,7877188 seconds
+C:\Users\Andrea\Desktop\ENSC\Unreal Engine\unreal-engine-programming-quick-start\QuickStart\Source\QuickStart\MyPawn.cpp(1): error : Expected MyPawn.h to be first header included.
+UnrealBuildTool : error : Build canceled.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.MakeFile.Targets(41,5): error MSB3073: La commande ""C:\Program Files\Epic Games\UE_4.21\Engine\Build\BatchFiles\Build.bat" QuickStartEditor Win64 Development "C:\Users\Andrea\Desktop\ENSC\Unreal Engine\unreal-engine-programming-quick-start\QuickStart\QuickStart.uproject" -WaitMutex -FromMsBuild" s'est arrêtée avec le code 1.

@@ -42,4 +42,20 @@
       <Filter>Source\QuickStart</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\QuickStart\FloatingActor.h">
+      <Filter>Source\QuickStart</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\QuickStart\MyPawn.h">
+      <Filter>Source\QuickStart</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\QuickStart\FloatingActor.cpp">
+      <Filter>Source\QuickStart</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\QuickStart\MyPawn.cpp">
+      <Filter>Source\QuickStart</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
